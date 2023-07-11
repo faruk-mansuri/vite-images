@@ -21,7 +21,7 @@ const SearchForm = () => {
           type='text'
           className='form-input search-input'
           name='search'
-          placeholder='moon'
+          placeholder='frozen'
         />
         <button type='submit' className='btn'>
           search
